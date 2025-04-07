@@ -1,5 +1,5 @@
 # Password-Generator
-🔐 Simple Password Generator
+<h1>🔐 Simple Password Generator</h1>
 This is a basic Bash script that generates random secure passwords using openssl. The user provides the desired password length, and the script generates 5 passwords of that length.
 
 🛠️ How it Works
